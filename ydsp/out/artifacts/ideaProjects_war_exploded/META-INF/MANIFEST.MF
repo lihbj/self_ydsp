@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: GodBo
+Build-Jdk: 1.8.0_121
+Implementation-Title: ydsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.godbo
+Main-Class: ${start-class}
+
